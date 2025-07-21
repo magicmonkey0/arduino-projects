@@ -39,7 +39,7 @@ image of the arduino uno, the cable (connecting the code to the board), and the 
 ---
 
 ## Code
-See [blink_morse.ino](blink_morse.ino)
+See [hello_world.ino](hello_world.ino)
 
 ---
 
