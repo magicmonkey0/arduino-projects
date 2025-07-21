@@ -38,6 +38,18 @@ see [led_blink.ino](led_blink.ino)
 
 ---
 
-## Future Endeavors
-- Connect two LEDs and make them blink in different patterns (asyncronous, syncronous, etc)
+## Cont.
+Connect two LEDs and make them blink in different patterns (asyncronous, syncronous, etc)
+- The two LEDs are connected in series
+see image for reference:
+![diagram3](https://github.com/user-attachments/assets/1d6d3af3-a010-4714-8f41-92a8fb813182)
+
+
+
+- see [led_blink_cont1.ino](led_blink_cont1.ino)
+  - this piece of code blinks the two LEDs at 149bpm
+    - blue LED blinks every sixteenth note
+    - white blinks every quarter note
+- see [led_blink_cont2.ino](led_blink_cont2.ino)
+  - this piece of code blinks the LEDs aysyncronously 
 
