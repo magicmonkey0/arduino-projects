@@ -21,7 +21,7 @@ This project uses an Arduino Uno to blink an external LED using a breadboard.
 ---
 
 ## How it Works
-- The LED is simply programmed to blink periodically (can be more complex, see [hello_world.ino](hello_world.ino)
+- The LED is simply programmed to blink periodically (can be more complex, see [hello_world.ino](hello_world.ino) )
 - Using 'digitalWrite()' and 'delay()'
 
 ---
