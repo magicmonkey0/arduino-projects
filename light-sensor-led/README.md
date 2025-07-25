@@ -39,7 +39,7 @@ This project connects the external stimuli to the arduino using LEDs and a photo
 
 ## Code
 
-(light-sensor-led.ino)[light-sensor-led.ino]
+(light_sensor_led.ino)[light_sensor_led.ino]
 
 ---
 
