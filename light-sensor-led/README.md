@@ -5,7 +5,7 @@ This project connects the external stimuli to the arduino using LEDs and a photo
 ---
 
 ## What I Learned
-- A photoreistor is a component that changes its resistance when light shines on it
+- A photoresistor is a component that changes its resistance when light shines on it
   - High intensity light will lower the resistance
   - Lower intensity of light will higher the resistance
 
@@ -18,7 +18,7 @@ This project connects the external stimuli to the arduino using LEDs and a photo
 - Three 100 ohm resistor
 - Breadboard
 - Jumper wires
-- Three LEDs
+- Three LEDs (testing three levels of light intensity)
 
 ---
 
