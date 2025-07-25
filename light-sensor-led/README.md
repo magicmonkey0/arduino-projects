@@ -32,7 +32,7 @@ This project connects the external stimuli to the arduino using LEDs and a photo
     read value will be sent to the blue LED and light it up
     - green LED: middle light intensity (shady): 50 <= V <= 100
     - white LED: high light intensity (bright)
-      - how it works: photrei=sistor reads high intensity light -> lower resistance -> higher voltage -> 'analogRead()' reads a higher value ->
+      - how it works: photoresistor reads high intensity light -> lower resistance -> higher voltage -> 'analogRead()' reads a higher value ->
         value is read by program -> lights up white LED indicating high light intensity
 
 ---
