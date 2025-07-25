@@ -8,6 +8,9 @@ This project connects the external stimuli to the arduino using LEDs and a photo
 - A photoresistor is a component that changes its resistance when light shines on it
   - High intensity light will lower the resistance
   - Lower intensity of light will higher the resistance
+- The value of the photoresistor can be measure using a jumper wire connected to A0 (analog 0) which will read the voltage from the photoresistor
+  to the resistor such that: higher voltage = lower resistance = which reads as higher light intensity and vise versa
+  - using 'analogRead()' to measure the value
 
 ---
 
@@ -34,6 +37,12 @@ This project connects the external stimuli to the arduino using LEDs and a photo
     - white LED: high light intensity (bright)
       - how it works: photoresistor reads high intensity light -> lower resistance -> higher voltage -> 'analogRead()' reads a higher value ->
         value is read by program -> lights up white LED indicating high light intensity
+
+---
+
+## Video
+
+https://github.com/user-attachments/assets/d7a008cf-2626-439c-8a10-298c59113299
 
 ---
 
