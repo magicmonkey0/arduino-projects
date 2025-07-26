@@ -32,6 +32,9 @@ This project uses an Arduino Uno to blink an external LED using a breadboard.
   
 <img width="400" height="260" alt="circuit" src="https://github.com/user-attachments/assets/5a3fed4f-4282-41ac-aba5-9d9a955108cb" />
 
+- schematic:
+<img width="380" height="180" alt="circuit-2" src="https://github.com/user-attachments/assets/f844fd42-57b2-4f0c-b622-6142ad7a00a7" />
+
 ---
 ## Code
 see [led_blink.ino](led_blink.ino)
@@ -40,11 +43,10 @@ see [led_blink.ino](led_blink.ino)
 
 ## Cont.
 Connect two LEDs and make them blink in different patterns (asyncronous, syncronous, etc)
-- The two LEDs are connected in series
-see image for reference:
+- The two LEDs are connected in series:
 <img width="400" height="260" alt="circuit" src="https://github.com/user-attachments/assets/1d6d3af3-a010-4714-8f41-92a8fb813182" />
 
-- circut diagram:
+- schematic:
 <img width="400" height="260" alt="circuit" src="https://github.com/user-attachments/assets/7bf56728-2625-4012-89d5-b1659aa63aa4" />
 
 
