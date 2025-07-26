@@ -43,7 +43,7 @@ see [led_blink.ino](led_blink.ino)
 
 ## Cont.
 Connect two LEDs and make them blink in different patterns (asyncronous, syncronous, etc)
-- The two LEDs are connected in series:
+- The two LEDs are connected in parallel, and connected in series with its resistor:
 <img width="400" height="260" alt="circuit" src="https://github.com/user-attachments/assets/1d6d3af3-a010-4714-8f41-92a8fb813182" />
 
 - schematic:
