@@ -1,8 +1,8 @@
-int blue = 4;   //blue led it connected to pin 4
-int green = 3;  //green led it connected to pin 3
-int white = 2;  //white led is connected to pin 2
+int blue = 4;   //blue led it connected to D4
+int green = 3; 
+int white = 2; 
 
-int lightSensorPin = A0; //photresistor
+int lightSensorPin = A0; //photoresistor
 int analogValue = 0; //resistance value from photoresistor
 
 
@@ -16,7 +16,7 @@ void setup() {
 
 void loop() {
   analogValue = analogRead(lightSensorPin); //get the value from photoresistor
-  if(analogValue < 50) //gets val and if val is low (<50), the blue led will turn on indicating less light
+  if(analogValue < 50) //gets val and if val is low (val<50), the blue led will turn on indicating less light
   {
     digitalWrite(blue, HIGH);
   }
