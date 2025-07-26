@@ -47,7 +47,7 @@ Connect two LEDs and make them blink in different patterns (asyncronous, syncron
 <img width="400" height="260" alt="circuit" src="https://github.com/user-attachments/assets/1d6d3af3-a010-4714-8f41-92a8fb813182" />
 
 - schematic:
-<img width="400" height="260" alt="circuit" src="https://github.com/user-attachments/assets/7bf56728-2625-4012-89d5-b1659aa63aa4" />
+WIP
 
 
 - see [led_blink_cont1.ino](led_blink_cont1.ino)
