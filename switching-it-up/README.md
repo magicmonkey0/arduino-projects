@@ -76,6 +76,7 @@ https://github.com/user-attachments/assets/2f995e9b-6eed-42b5-aa27-4c0fd5ac4714
 
 ## Miscellaneous
 - experiment with multiple LEDs
+- connect a parallel circuit with one resistor?
 
 
 
