@@ -40,7 +40,8 @@ Checkpoint: Getting more familiar connecting components together on the breadboa
 <img width="400" alt="img4958" src="https://github.com/user-attachments/assets/9bc00c2c-fc38-4c47-a4f4-6c09f92f9b95">
 
 - schematic:
-<img width="320" height="320" alt="circuit-6" src="https://github.com/user-attachments/assets/3c209258-e702-4579-9469-f3715e8c6435" />
+
+<img width="320" height="320" alt="circuit-6" src="https://github.com/user-attachments/assets/23d66dab-1ba8-4288-b5c6-f28bc7123eff" />
 
 - video demonstration (can enable audio to hear the switch being physically pressed!):
   
@@ -58,8 +59,10 @@ https://github.com/user-attachments/assets/d0b21e1a-9d02-4f1a-9b42-ed713c164232
 https://github.com/user-attachments/assets/ae2a95ac-cfb7-44c5-ae91-9527560c397f
 
 ---
-3. two swtches (parallel)
+3. Two switches (parallel):
+
 Checkpoint: first circuit I was able to figure out alone. yay.
+
 <img width="420" height="320" alt="circuit-7" src="https://github.com/user-attachments/assets/38f155ac-5b8c-4e6c-971e-7c60611a0a80" />
 
 - schematic:
