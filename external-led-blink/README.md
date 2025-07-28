@@ -17,6 +17,9 @@ This project uses an Arduino Uno to blink an external LED using a breadboard.
 - Using a breadboard and how the rows are connected
 - Connecting the components together from the Arduino pin -> jumper wire 1 -> resistor -> LED + -> LED - -> GND
 - Connecting the LED in series with resistor to reduce voltage to LED
+- Connecting resistors before or after the LED does not make a difference.
+  - The goal of the resistor is to reduce the amoung of current flowing through the circuit and will achieve this goal whether it is before or after the LED (to prevent it from burning out) because the current is the same throughout in a series circuit.
+  - It is common practice to place the resistor on the anode side of the LED.
 
 ---
 
