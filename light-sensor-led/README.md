@@ -25,9 +25,7 @@ This project connects the external stimuli to the arduino using LEDs and a photo
 
 ---
 
-## Circut Diagram / How it Works
-
-![digram4-2](https://github.com/user-attachments/assets/c9d28323-bb1f-4eff-9138-a235e2250156)
+## How it Works
 
 - the value of the resistance the photoresistor is read from the wire between the component and the reisistor to A0 (analog 0) which works
   adjacent with 'analogRead()' to measure the voltage
@@ -41,6 +39,13 @@ This project connects the external stimuli to the arduino using LEDs and a photo
         value is read by program -> lights up white LED indicating high light intensity
 
 ---
+## Circuit Diagram
+
+<img width="400" alt="digram4" src="https://github.com/user-attachments/assets/c9d28323-bb1f-4eff-9138-a235e2250156" />
+
+- schematic (<ins>idk if this is right</ins>):
+
+  <img width="653" height="385" alt="circuit-4" src="https://github.com/user-attachments/assets/a31a2e31-f728-434f-a834-dd6e60bf5072" />
 
 ## Video
 
@@ -60,8 +65,6 @@ Pi My Life Up
 
 ---
 
-## Future Endeavors
+## Miscellaneous
 
 etc...
-
-
