@@ -57,14 +57,9 @@ https://github.com/user-attachments/assets/d7a008cf-2626-439c-8a10-298c59113299
 
 [light_sensor_led.ino](light_sensor_led.ino)
 
----
-
-## Credits
-
-Pi My Life Up
 
 ---
 
 ## Miscellaneous
+- credits: Pi My Life Up
 
-etc...
