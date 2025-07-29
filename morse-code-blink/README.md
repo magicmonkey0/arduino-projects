@@ -37,6 +37,7 @@ image of the arduino uno, the cable (connecting the code to the board), and the 
 ![diagram](https://github.com/user-attachments/assets/151c123b-a185-4483-abf7-c033dcf569c0)
 
 video:
+
 https://github.com/user-attachments/assets/53c41667-e872-408f-83af-70a69d01e1be
 
 ---
