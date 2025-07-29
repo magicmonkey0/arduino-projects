@@ -23,7 +23,6 @@ This project uses switches with LEDs to make an interactive circuit.
 - When components are connected in parallel, it provides an alternate path for the current to flow
   - So, if two switches were placed in parallel to each other but in series with the LED, switch either one will light up the LED
     
-Checkpoint: Getting more familiar connecting components together on the breadboard :)
 
 --- 
 ## How it Works
@@ -60,8 +59,6 @@ https://github.com/user-attachments/assets/ae2a95ac-cfb7-44c5-ae91-9527560c397f
 
 ---
 3. Two switches (parallel):
-
-Checkpoint: first circuit I was able to figure out alone. yay.
 
 <img width="420" height="320" alt="circuit-7" src="https://github.com/user-attachments/assets/38f155ac-5b8c-4e6c-971e-7c60611a0a80" />
 
