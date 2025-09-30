@@ -10,3 +10,4 @@ This repository contains all of my Arduino projects, starting from the basics an
 - [Light Sensor LED](light-sensor-led/) - Detecting levels of light intensity using a photoresistor
 - [Switching it Up](switching-it-up/) - Using switches to make an interactive circuit
 - [Fading LEDs](fading-leds/) - Lighting up and fading different colours using RGB LED depending on light levels using a photoresistor and PWM
+- [On and Off Switch](on-off-switch/) - Using two switches to create an off and on switch mechanism
